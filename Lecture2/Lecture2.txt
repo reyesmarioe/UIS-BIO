@@ -1,0 +1,433 @@
+Chapter nine, diversity of plant life. Last time I covered the history of plant 
+systemics and how our approach to defining and categorizing species has changed 
+over the years. Today, I'll talk about our current system for defining and 
+categorizing plants. There will be a brief tangent when I talk about plant life 
+cycles and the alternation of generations. Finally, I'll go over the different 
+phi of plants, the traits that we use to identify them, and some examples of 
+human uses for them. Okay. Okay. The last lecture, I talked about Charles 
+Darwin's theory of evolution by natural selection, and how before his works 
+were widely read and accepted, a lot of scientists believed that species were 
+fixed and distinct. Let's imagine for a moment that we live in that kind of 
+world. Imagine that species are fixed. The species that live today have always 
+been here, have always looked the same, will always look the same, and no new 
+species will ever appear. Let's also assume that species are distinct, that 
+they never interbreed to produce hybrids. In that world, it would be much 
+easier to classify species. Since species would never change, we could just 
+organize them into bins, and once we were done, we would never need to 
+reorganize or invent new categories. However, that's not the kind of world that 
+we live in. In our world, species have changed and evolved gradually over 
+generations. Modern species are descended from prehistoric species that are now 
+extinct. Modern species share common ancestors and new species can appear as a 
+result of interbreeding or divergent evolution. So any attempt to classify 
+species into categories is going to be at least somewhat artificial. 
+Classification systems are still very helpful, but they are always imperfect 
+systems that are subject to change as new information becomes available. Modern 
+classification systems attempt to mimic evolutionary history, but If we wanted 
+to more accurately represent evolutionary history, these clotograms would look 
+more like this one. This figure is much harder to read and interpret than the 
+figures you'll typically see in my lectures and in the textbook. But this does 
+more accurately represent what probably happened. Each node of this tree 
+represents a common ancestor whose descendants diverged. They evolved different 
+traits to the points that they became different species, and those new species 
+were then the common ancestor of other new species. This cladogram is of green 
+algae. Green algae are protists. They are not plants, but they do have 
+chlorophyll and perform photosynthesis. Here on the left, Chlorophyta and kofta 
+are different clods or categories of green algae. They represent divergent 
+evolution from a common ancestor. More recent species of green algae are 
+categorized based on which of these species they descended from. Clodograms 
+like this one change as new information becomes available. Even when using DNA 
+evidence to try to identify closely related species, we may still need to re 
+evaluate when exactly species diverged and which ones are the most closely 
+related. Now look at this branch at the bottom. This embryophyta is the entire 
+plant kingdom. On this figure, it looks like just another claw, just another 
+branch. But the first embryophyte represented down here. The first ever 
+embryophyte is the common ancestor for all of our modern plants. So 
+classification is highly debated both because new evidence changes or 
+understanding of evolutionary history, and all categorization systems are 
+subject to change and revision. This top figure up here shows the five kingdom 
+system. This was developed in 1969 by Robert Whitaker. The five kingdoms are 
+Monera for prokaryotic bacteria, protista for eukaryotes that don't fit into 
+the other kingdoms, plants, fungi and animals. Cells, you may recall can be 
+prokaryotic or eukaryotic. Prokaryotic cells do not have membrane bound 
+organeles. They do not have mitochondria or plastids, and they do not have a 
+nuclear membrane around their DNA. Karyotic cells do contain membrane bound 
+organes. Single celled organisms can be prokaryotic or eukaryotic. All 
+multicellular organisms are eukaryotic. So, in 1969, we have one kingdom for 
+all prokaryotes with eukaryotes divided into four different kingdoms. But then 
+in the 1970s and 80s, we learned that prokaryotic species are much more diverse 
+than we originally thought. We also realized that protista as a miscellaneous 
+grab bag category doesn't make sense from an evolutionary perspective. Again, 
+protists are eukaryotes that don't fit into the plants fungi or animal 
+kingdoms. So, in 1990, Karl Wosi at the University of Illinois Arbana Champagne 
+proposed the three Domain system. Two domains, Arka and bacteria are 
+prokaryotic, and all eukaryotes are in domain Eukarya. As of 2024, the three 
+domain system is still what we use today. And among all the accolades that Wos 
+received for his work, there's a research building at the UIUC campus named in 
+his honor. Domain bacteria contains all species of bacteria you are likely to 
+be familiar with. Archaea are found in environments with extreme temperature, 
+salinity, or other conditions normally inhospitable for life. Both bacteria and 
+archaea are prokaryotes, which means they are single celled and do not have 
+membrane bound organeles. Eukarya contains all eukaryotes. Eukaryotic cells 
+have membrane bound organals and eukaryotic organisms can be both single celled 
+or multicellular. Protista is no longer an official kingdom, but we still use 
+the term protist to refer to eukaryotes that do not fit into the remaining 
+kingdoms. Protists are very diverse. Some protists like algae are autotrophic, 
+which means they get their energy and nutrition from non living sources like 
+the sun. Other protysts are heterotrophic, which means they need to consume 
+other organisms for energy and nutrition. Plants are autotrophic. All plants 
+carry out photosynthesis to capture solar energy and store it as chemical 
+energy. Animals and fungi are both heterotrophs. They get energy and nutrition 
+from other organisms. Fungi are absorptive heterotrophes. They grow on organic 
+matter like plants, or they infect animals and they secrete enzymes to break 
+down organic matter so they can absorb the nutrients. Animals are ingestive 
+heterotrophes. They eat or ingest plants, fungi or other animals and digest 
+them to absorb the nutrients. This difference, autotrophic versus heterotrophic 
+is what sets plants apart from animals and from fungi. Animals and fungi get 
+energy by consuming or decomposing other living things while plants get energy 
+from a non living source, the sun. Kingdom plant or land plants are also called 
+embryophytes. Embryophytes, you may recall from the more complex cladogram are 
+closely related with green algae protists. What makes embryophytes different 
+from protists is the retention of an embryo. During plant sexual reproduction, 
+a female gamete or egg cell is fertilized internally by a male gamete or sperm 
+cell. Fertilization, the fusion of the two gamete cells happens inside of the 
+parent plant as opposed to outside of the parents. Also, after fertilization, 
+the ensuing zygote is retained inside the parent plant as the zygote develops 
+into a mult cellular embryo. Internal fertilization, along with retention of 
+the embryo is the trait that we have used to define embryophytes. This is the 
+line that we artificially used to separate land plants from protosts like green 
+algae. Using this definition, we would say that the earliest embryophytes, the 
+first land plants, appeared about 470 million years ago. Okay. Now, before I 
+talk about the different groups of plants within the plant kingdom. I'm going 
+to summarize the plant life cycle. I mentioned last time that plants experience 
+both a haploid and a diploid phase in their life cycle. Some of the terms I use 
+will sound new to you if you have only studied animal reproduction. Before I 
+get into that, let's review two types of cell division. Mitosis and meiosis. 
+You can find more detailed summaries of mitosis and meiosis respectively in 
+Chapters two and five of your book. Mitosis happens as part of the cell cycle 
+during plant growth. It can also happen after a plant is wounded in order to 
+replace the missing tissue. During mitosis, all the DNA in the initial mother 
+cell is replicated, and then the cell divides once into two daughter cells. 
+These two daughter cells are identical. They contain the same amount of DNA and 
+their DNA is an exact copy of each other's. Again, this happens in parts of the 
+plants that are growing. Miosis only happens for the purpose of reproduction. 
+Like mitosis, meiosis begins with DNA replication, but then has two rams of 
+cell division, producing a total of four daughter cells. Each of these daughter 
+cells contain only half the amount of DNA that the initial mother cell had. We 
+would say that the mother cell is diploid, and then the final daughter cells 
+are haploid, containing half the amount of DNA. Okay. Also, each of these four 
+daughter cells are unique because of events called crossing over and 
+independent assortment. I'm not going to go into the details of meiosis in this 
+class. The important things to understand here are that the products of meiosis 
+contain half as much DNA as the parent cell and that each of these products are 
+genetically different from each other. This is different from mitosis where the 
+amount of genetic material remains the same, and the two daughter cells are 
+identical. Again, meiosis only happens for reproduction. Gametes, that is egg 
+and sperm cells have half the normal amount of genetic material. So when two 
+gametes fuse during fertilization, the resulting zygotes will have the normal 
+amount of genetic material. It will receive half of its genes from the female 
+gametes and half from the male gametes. Also, since each daughter cell from 
+meiosis is genetically different, that means each gamete will be genetically 
+different. And that in turn means that each zygote will be genetically 
+different even if multiple zygotes came from the same two parents. The life 
+cycle of all plants involves alternation of generations. All plants have a 
+diploid sporophyte generation and a haploid gametophyte generation. The 
+dividing line between these two generations are meiosis and fertilization. 
+Diploid and haploid, refer to the amount of genetic material that the cells 
+contain. Remember that during meiosis, the amount of genetic material is cut in 
+half. The parent cell is diploid, and the cells produced from meiosis are 
+haploid. In animals, these haploid cells develop into gamates almost 
+immediately. In plants, the cells produced from meiosis develop first into 
+spores. Since these spores are haploid, they are the beginning of the 
+gametophyte generation. Depending on species, gametophytes might produce both 
+male and female gametes, or a species may have two different types of 
+gametophyte with one that only produces sperm and one that only produces eggs. 
+Also, depending on the species, the gametophyte could be the dominant phase of 
+the life cycle. This could be the stage of the plant that grows, lives longer, 
+and is more likely to be noticed if you see it in the wild. What all 
+gametophytes from all plant species have in common is that they are haploid. 
+They develop from spores, they contain half as much genetic material as the 
+sporophyte, and gametophytes eventually produce gametes. Since the gmetophyte 
+is already haploid, it can produce gametes by mitosis. Recall that during 
+mitosis, the amount of genetic material remains the same. So if you start with 
+a haploid cell, you will get a haploid product. All plant species have two 
+kinds of gametes, sperm cells and egg cells, and when a sperm cell fuses with 
+an egg cell that is called fertilization. During fertilization, two haploid 
+cells fuse together to produce a diploid zygote. Since the zygote is diploid, 
+it is the beginning of the sporophyte generation. The haploid generation begins 
+with meiosis, which cuts the amount of genetic material in half. Unlike 
+animals, plant meiosis produces spores to begin the gametophyte generation. 
+Eventually, the gametophyte will produce gametes by mitosis. Fertilization, the 
+fusion of gametes creates a yo with twice as much genetic material as a single 
+gamete, it is the beginning of the sporophyte generation. And eventually, the 
+sporangia, a specific organ within the sporophytes. The sporangium will carry 
+out meiosis to produce a new batch of spores to produce a new generation of 
+metophytes. Now, before I move on. Those of you enrolled in the lab section 
+should stop here for now until you finish the lab activity for week one. Part 
+of that activity will involve using your best guess to categorize different 
+species of plants. You will not be graded for accuracy on that part of the 
+assignment. So I would like you to try it before I give away the answer in the 
+next part of this lecture. So pause now and welcome back. So with that, let's 
+look at different groups of plants within the plants kingdom. Starting at the 
+bottom, plants are descended from a prehistoric protist like green algae. The 
+trait that we have artificially declared as the line between algae and plants 
+is the retention of the embryo inside of the parent plants. From there, plants 
+are divided into liver boards, mosses, horn boards, club mosses, whisk ferns, 
+horsetails, true ferns, cycads, Ginko, tophytes conifers and flowering plants. 
+You can also see additional traits that we use to distinguish one group from 
+another. While we want these groups to reflect evolutionary history as much as 
+possible, there are still some traits that we can use as helpful dividing lines 
+between these groups. A few that I want to draw your attention to are vascular 
+tissue. Liver warts, mosses, and hornworts are non vascular plants, while all 
+other plants have vascular tissue with true stems. Club mosses, whisk ferns, 
+horsetails and true ferns are called seedless vascular plants because they have 
+vascular tissue, but they do not develop seeds. Cycads, ginko, netaphytes and 
+conifers are all called gymnosperms or naked seed plants. Flowering plants are 
+called angiosperms or enclosed seed plants because their seeds develop inside 
+of a structure like a flower. So beginning with non vascular plants. In total, 
+there are about 25,000 species of non vascular plants that includes all species 
+of liver barts, mosses, and hornworts. As the title non vascular suggests they 
+do not have vascular tissue like Zylm or flum. Xylem and flum are specialized 
+cells that direct the flow of water fluids and dissolve substances like sugar 
+throughout the plants in the roots, stems, and branches. So no vascular tissue 
+means that transport through a non vascular plants is much less efficient. 
+Imagine if you did not have a circulatory system for rapidly transporting 
+oxygen or nutrients throughout your body and think of all the problems that 
+would create. Since non vascular plants cannot transport water or sugar very 
+efficiently. They do not grow very large. They are generally restricted to 
+moist environments and will spread over a wide area so that all parts of the 
+plants are exposed to water in their environment. They do not have much 
+internal structure. If you've ever scraped moss off a rock, you likely noticed 
+that it forms a thin mat over the surface. Non vascular plants do not have true 
+leaves, since leaves have vascular tissue. They do not produce seeds. Since 
+they grow in moist environments, they rely on water to distribute gametes and 
+spores. Finally, unlike all other types of plants, non vascular plants have a 
+dominant gmtophyte generation. If you've ever seen a moss, liverwort, or 
+hornwort in the wild, you almost certainly saw the gmtophyte. The gametophyte 
+organism is larger, it lives longer. In all non vascular species, the 
+sporophyte is very small and is completely dependent on its gmtophyte parents. 
+Shown here are liver boards. Liver warts may superficially resemble some molds 
+or lichens, but they are plants and they do carry out photosynthesis. Liver 
+warts are sometimes described as leafy. But again, keep in mind that true 
+leaves would have vastar tissue, so liver borts don't really have leaves. These 
+are surfaces for carrying out photosynthesis that do contain chlorophyll, so 
+they do serve the same purpose. Now, one thing that is unique about liverworts 
+is that they are missing something called guard cells. All plants, including 
+liverworts have small pores called stomata. Stomata allow carbon dioxide to 
+enter the plant for carrying out photosynthesis. But stomata can also allow 
+water to escape, since the inside of a plant is much more humid than the 
+surrounding air. Gard cells allow a plant to open or close their stomata so 
+they can regulate the movement of carbon dioxide and water. For example, when 
+the plant is performing photosynthesis, the stomata will open to allow carbon 
+dioxide inside. When the plant is not performing photosynthesis, it will close 
+the stomata to keep water inside. Since liverworts do not have guard cells, 
+their stomata are always open. So if their environment dries out, the water 
+will escape and the plant will dry out very quickly. Fortunately, liverworts 
+don't need to worry about drying out as long as they only grow in moist humid 
+habitats. Horn warts are a much smaller group of plants. I'd like to draw your 
+attention to the sporophyte of the hornworts. Horn warts have a dominant 
+gmtophyte phase. The gmetopyte is the larger organism that lives longer. But in 
+this picture, you see these grass like or horn like growths that give the 
+hornwort its name. These growths are the sporophytes. If you look down at these 
+pictures, you can see that these growth, the sporophytes are growing from a mat 
+at or underneath the surface. So this mat down here is the gametophytes. Again, 
+in all non vascular plants, the sporophytes will grow while attached to its 
+parent gmtophytes. Now, these are still considered separate organisms because 
+they are genetically distinct. The sporophyte contains twice as much genetic 
+material as the haploid gmtophytes. But despite being separate organisms, the 
+sporophyte will still spend its entire short life attached to its parents, 
+while while it develops a new generation of spores to distribute and start a 
+new generation of metophtes. Okay. Now finally, we get to mosses. Mosses are 
+the largest group of non vascular plants. Mosses are further divided into peat 
+mosses, true mosses and rock mosses. All have dominant gmtophte phases and all 
+grow in moist environments. Unlike other non vascular plants, though, mosses do 
+have some leaf like and root like structures. But since they still don't really 
+have specialized vascular tissue, we still would not say that they have true 
+leaves or roots. While non vascular plants are small, they play an essential 
+role in ecosystems. Once mosses or other non vascular plants spread into a 
+suitable habitat, they can grow and spread very quickly from there. As 
+autotrophs, non vascular plants can be the foundation of a new ecosystem. Non 
+vascular plants are an example of a pioneer species, since they can spread into 
+a once barren habitat and enable other species like animals to spread after 
+them. Non vascular plants will acquire and concentrate water and nutrients 
+within their bodies, their structure. That makes them a good source of food for 
+animals or other heterotropes that rely on something like a plant to acquire 
+and retain water and nutrients like that. Also, by retaining water, non 
+vascular plants are able to prevent erosion by reducing surface runoff. There 
+are some human uses for non vascular plants in particular peat moss. Peat moss 
+is a type of moss that grows in highly acidic bodies of water. The acidity 
+prevents other types of plants from growing in those bodies of water. So the 
+peat mosses are well preserved over a long period of time, and they can build 
+up within those acidic ponds or bogs. The resulting substance is very similar 
+to fossil fuels like coal. It has not been subjected to the same high pressure 
+conditions over a long period of time that make true fossil fuels, but it can 
+still be burned as a fuel. Peat moss is also used as a soil additive since it 
+helps the soil to absorb and retain moisture if you want to prevent a plant 
+from drying out. Okay. All other types of plants have vascular tissues. Plants 
+have two types of vascular tissues, Xylem and flum. Xylem transports water and 
+dissolved nutrients from the roots up through the stem and into the leaves. 
+Xylem only flows in one direction. Flom are bidirectional. They can transport 
+sugars and other biomolecules all over the plants. For example, floum may 
+transport sugar from the leaves down to storage organs in the roots, later on, 
+Flum may transport those molecules up from the roots and into parts of the 
+plant that are actively growing and need those resources. Vascular tissue all 
+in all makes transport much more efficient, so the plants can grow taller and 
+can survive in drier habitats. According to the fossil record, the first 
+vascular plants appeared around 420 million years ago, about 50 million years 
+after the first ever land plants. So the evolution of vascular tissue would 
+have made plants more fit, more capable of surviving in a wider variety of land 
+habitats. Having vascular tissue means that these plants can have true roots, 
+stems, and leaves with veins. Also, A vascular plants in all vascular plants, 
+the diploid sporophyte generation is dominant. This is true of seedless 
+vascular plants, gymnosperms and angiosperms. The two phyla of seedless 
+vascular plants that I'll highlight here are lycophyta and pterophyta Lycopta 
+includes club mosses and ground pines. Both of those common names are 
+misleading. Club mosses do superficially resemble moss because despite being 
+vascular plants, they still lack true leaves. But club mosses have stems and 
+roots with vascular tissues, so they are very different from true non vascular 
+mosses. Also, ground pines again, do superficially resemble conifer trees. They 
+look like, very small pines with very skinny trunks. But again, these are 
+seedless plants, so they aren't true gymnoseperms and are not related to pine 
+trees. Okay. Moving on to terafta This is a much larger phylum that includes 
+horsetails, whisk ferns and true ferns. Beginning with horsetails, horsetails 
+also, sorry, horsetails do have leaves, but the leaves do not have chlorophyll. 
+They do have leaves, but the leaves don't have chlorophyll. Instead, 
+photosynthesis happens in the green parts of these stems. Horsetail stems also 
+contain a substance called silica. This makes the stems very rigid and coarse. 
+In the time of pioneers in North America, these plants were sometimes called 
+scouring rushes because the silica in the stems made these plants useful as 
+scouring pads for cleaning pots and pans. Both lycophyta and pterophyta used to 
+include very large species of plants that are now extinct. Again, remember that 
+plants like these were the very first vascular plants to appear on Earth. And 
+therefore, the first plants that could survive in habitats farther away from 
+fresh water, and the first plant species that could efficiently transport water 
+through very large bodies. So they were able to grow taller than non vascular 
+plants. So there would have been horsetails or lycophytes growing as tall as 
+trees. Today, the plant matter from those forest has been buried deep 
+underground, and after being subjected to high pressure and heat over a long 
+period of time, those prehistoric lycophyta and terafta forests are now the 
+fossil fuels like coal and oil that we use today. Also within terafta are whisk 
+ferns. Wisk ferns are similar to horsetails and that they do not have leaves 
+with chlorophyll. They do have leaf like growths, but they do not have 
+chlorophyll in their leaves, they instead carry out photosynthesis in their 
+stems. These yellow growths at the top of the whisk fern are the sporangia. A 
+sport All plants in the sporophyte generation have sporangia for producing 
+spores. These are just more visible than an other species. Again, this is where 
+meiosis happens to produce the haploid spores. The largest group of seedless 
+vascular plants are the true ferns. True ferns have these distinct leafy frons. 
+If you've kept a fern as a house plant, you may have felt small brown grains 
+underneath the frons. That is not a disease or a parasite of any kind. Those 
+small grains under the frons are the sporangia. Again, that is where spores are 
+produced. So if your fern has those, then it is a healthy plant. Like other 
+plants within teraftaFerns once grew very tall, tall enough to dominate 
+forests. Modern species of ferns are much smaller, but some can still grow very 
+big. For humans, ferns can be a source of fiber. The larger ones can produce 
+very sturdy fibers from their fronds. Some ferns can also be a source of food. 
+More commonly though, they are used for decoration or as a natural method of 
+air filtration inside of a building. Okay. All the remaining groups of plants 
+are the seed plants. All seedless plants mentioned previously rely heavily on 
+water for reproduction for distributing and nourishing developing plants. For 
+seed plants, the seed has a protective outer coat surrounding the embryo and 
+storing nutrients inside. This can sustain the young plant while it develops 
+and make it possible for seed plants to grow in even drier environments than 
+before. All seed plants are vascular plants with true roots, stems and leaves. 
+Sed plants include gymnosperms or naked seed plants, as well as angiosperms or 
+flowering plants. Gymnosperms are called naked seed plants because their seeds 
+develop on exposed surfaces like the underside of pine cone scales. While 
+angiosperm seeds develop inside of a flower or are often enclosed inside of a 
+fruit. Gymnosperms do not have flowers or fruits. Shown here is a seed cone. 
+You can see the seeds developing underneath the scales. Gymnosperms will have 
+separate cones for developing seeds and pollen. The pollen cones tend to be 
+much smaller and sometimes fleshier than the more typical looking seed cones. 
+There are four phyla of gymnosperms. The first and most prominent pym is the 
+conifer tree pym Conifer trees all have true leaves with chlorophyil. Their 
+leaves tend to be needle or scale shaped and often have a waxy texture. All of 
+this helps the leaf retain water. The waxy surface helps seal water in and 
+their small surface area reduces the amount of water that evaporates out of the 
+leaf. Cones are the reproductive structures for conifers. So they will have 
+small male cones that produce pollen and larger female cones that produce 
+seeds. It often takes multiple growing seasons for conifers to develop seeds. 
+So during the first growing season, a seed cone will be open. There will be 
+space between its scales so that wind distributed pollen can enter. Then the 
+female cone closes once pollen arrives and the scales are pressed together. 
+During this time, the sperm cells from the pollen grains are fertilizing the 
+egg cells from the female cone and the seeds are developing. In some species, 
+this process can take well over a year. Then when the seeds are finally mature, 
+the female cone will open back up and the wind will distribute the mature 
+conifer seeds. We use conifers for a lot of different things. The big one is 
+lumber. Conifers are all woody plants. They have large woody trunks that can be 
+a source of lumber or fuel. These were used as masks in wooden ships for early 
+seafarers. Conifer wood is also used in furniture, match sticks for 
+construction or for telephone poles among other things. Conifers also produce a 
+substance called resin inside of their trunks. If you cut open the trunk of a 
+conifer tree, you would find resin canals running up and down the stem. This 
+resin is used to make substances like turpentine or rosin. Conifer wood is also 
+a source of wood pulp, which we use to make paper products or cardboard. We 
+don't typically think of conifers as a source of food, but some do have edible 
+bark or seeds. White pine needles are sometimes brewed in tea, and Juniper 
+cones can be fermented to produce gin. These are often called juniper berries, 
+but they're actually cones. They're just fleshier instead of scaly. Also, the 
+Pacific tree is the source of a chemotherapy drug called Taxol, used to treat 
+ovarian cancer. And finally, conifers are often used for decoration. Some 
+people like to look at them year round. Or alternatively, in about six months, 
+a lot of us are going to start gathering up conifer and conifer like branches 
+to decorate our homes and public areas. Conifers are the most prominent phylum 
+of gymnosperms. There are three others, cycads, Ginko, and metaphytes. Cycads 
+are small leafy tree like plants that grow in tropical habitats. Cycads are 
+dioecious. Unlike conifer trees in which the same plants will have both male 
+and female cos, a single cycad plant will only have either male or female 
+reproductive structures, one or the other, but never both. Like ferns, cycads 
+once formed entire forests, while modern species are smaller, they can still be 
+pretty big. Larger cycads can be a source of fiber and can be used for 
+decorations. But all cycad species produce carcinogenic substances that make 
+them unsafe to eat. One interesting thing about cycads is that there is some 
+evidence that early cycads were pollinated by insects. Non vascular plants and 
+seedless plants rely on water to distribute gametes and spores, while conifers 
+rely on wind to distribute pollen and seeds. So if cycads were the first insect 
+pollinated plants, that would be a very noteworthy adaptation. Okay. Next is 
+the Ginko. The Ginko is the only species in the Phylum Ginko pita that is still 
+alive today. Even then, that species does not live in the wild. You will not 
+find wild Ginko forests. You will only find it in gardens, parks, or on private 
+property, places that are attended by humans. Ginkos have a very unusual leaf 
+structure. It resembles angiosperm leaves, but no angiosperm has a leaf 
+structure like this one. Ginkos have this very distinct fan shape to their 
+leaves. These do change color at the end of the summer like angiosperm leaves, 
+but again, this shape is very different from anything you'll see on any other 
+tree. Also, unlike most angiosperms, Ginkos are dioses, there are male and 
+female trees. Female trees produce seeds within these fleshy fruit fleshy fruit 
+like structures. Since these don't come from flowers, they aren't really 
+fruits. Also, they have a very ramcid odor. Despite the odor, the actual seeds 
+inside, sometimes called ginko nuts are considered a delicacy in some parts of 
+the world. The last group of gymnosperms are the tophytes. This is a very small 
+group of plants with only 70 species alive today. Netophytes share a lot of 
+traits with angiosperms. They have more advanced vascular tissue, more like 
+angiosperms than other gymnosperms. They also sometimes have flower like 
+structures. One species within netaphta is the joint fur. The joint fur grows 
+in North America, in the deserts to the Southwest, and it is the source of 
+ephedrine, which is used as a stimulant in some medicines. Last, but certainly 
+not least are the flowering plants or angiosperms. All flowering plants are in 
+the phylum magnoliopta. This is a very large phylum with over 250,000 species 
+alive today. These are the most widespread plants on Earth. They are far and 
+away the economically important to humans. So again, Magnoliapta includes all 
+flowering plants. So A flower that you use for decoration or any other purpose 
+is an angiosperm. Flowers are the source of fruit. So all fruits come from 
+angiosperms. And Magnoliafta also includes many species of woody trees like 
+oak, maple, and ash. And I mentioned fruits earlier, Angiosperms are also the 
+source of all nuts and grains as well. So these are highly economically 
+important plants and rather than stuff them all into the last 5 minutes, I'm 
+going to spend most of the rest of the class talking about them. So in summary, 
+we currently organize all life on Earth into three domains. Bacteria, Archaea, 
+and uk, Bacteria, Archaea, and Eukarya. The plants kingdom is part of domain 
+Eucharia. Plants are also known as embryophytes. So named because they retain 
+the embryo inside the parent plant during reproduction. All plants demonstrates 
+alternation of generations with a haploid gmtophyte phase and a diploid 
+sporophyte phase. Non vascular plants include mosses, liverworts, and horn 
+parts. They are small and confined to moist environments and are the only group 
+of plants with a dominant gamtopyte phase. All vascular plants have a dominant 
+sporophyte phase. Ferns, horsetails, club mosses, and whisk ferns are seedless 
+vascular plants, able to grow taller and further away from freshwater, but they 
+do still rely on water to distribute gametes and spores. Since their embryos 
+lack the protective outer covering of a seed coat. Gymnosperms are seed plants 
+that include conifers, cycads, ginkos and tophytes. Conifers are the most 
+economically important of these groups, but far and away the most economically 
+important type of plants are angiosperms, the flowering plants, and we will 
+take a closer look at those next week. 
